@@ -1,4 +1,4 @@
-﻿token=
+token=NTMxNzYwMzE1NTYyNTkwMjA5.DxSn9w.0zB3oYrwOau2BF-PSEO_n7U2u0Y
 owner=525270331611414529
 prefix=v
 game={ FM } 
